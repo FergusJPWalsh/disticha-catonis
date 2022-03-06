@@ -1,20 +1,8 @@
-# {{ NAME OF TEXT }}
+# Multi-Lingual _Disticha Catonis_
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+Latin text: ed. Marcus Boas (1952)
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
-
-## Contributors
-
-* {{ list of people who have contributed to this repo }}
-
-## Source
-
-{{ indicate original source(s) of text: scans or existing transcriptions }}
-
-## Progress
-
-{{ indicate progress, or remove entire section if done }}
 
 ## License
 
