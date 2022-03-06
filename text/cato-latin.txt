@@ -1,0 +1,355 @@
+ep.0 EPISTULA
+ep.1 Cum animadverterem quam plurimos graviter in via morum errare, succurrendum opinioni eorum et consulendum famae existimavi, maxime ut gloriose viverent et honorem contingerent. Nunc te, fili carissime, docebo quo pacto morem animi tui componas. Igitur praecepta mea ita legito, ut intellegas. Legere enim et non intelligere neglegere est.
+brev.0 BREVES SENTENTIAE
+brev.1 Deo supplica.
+brev.2 parentes ama.
+brev.3 cognatos cole.
+brev.4 datum serva.
+brev.5 foro pare.
+brev.6 Cum bonis ambula.
+brev.7 antequam + ne accesseris.
+brev.8 mundus esto.
+brev.9 saluta libenter.
+brev.10 maiori concede.
+brev.11 magistratum metue.
+brev.12 verecundiam serva.
+brev.13 rem tuam custodi.
+brev.14 diligentiam adhibe.
+brev.15 familiam cura.
+brev.16 mutuum da.
+brev.17 cui des videto.
+brev.18 Conviva raro.
+brev.19 Quod satis est dormi.
+brev.20 coniugem ama.
+brev.21 iusiurandum serva.
+brev.22 vino tempera.
+brev.23 pugna pro patria.
+brev.24 nihil temere credideris.
+brev.25 meretricem fuge.
+brev.26 libros lege.
+brev.27 quae legeris memento.
+brev.28 liberos erudi.
+brev.29 blandus esto.
+brev.30 irascere ob rem.
+brev.31 neminem riseris.
+brev.32 in iudicium adesto.
+brev.33 ad praetorium stato.
+brev.34 consultus esto.
+brev.35 virtute utere.
+brev.36 trocho lude.
+brev.37 aleam fuge.
+brev.38 litteras disce.
+brev.38a liberalibus stude.
+brev.39 bono benefacito.
+brev.40 Tu te consule.
+brev.41 maledicus ne esto.
+brev.42 existimationem retine.
+brev.43 aequum iudica.
+brev.44 nihil mentire.
+brev.45 iracundiam rege.
+brev.46 parentem patienta vince.
+brev.47 minorem non contempseris.
+brev.48 nihil arbitrio virium feceris.
+brev.49 patere legem quam ipse tuleris.
+brev.50 beneficii accepti esto memor.
+brev.51 pauca in convivio loquere.
+brev.52 miserum noli inridere.
+brev.53 minime iudica.
+brev.54 alienum noli concupiscere.
+brev.55 illud agredere quod iustum est.
+brev.56 libenter amorem ferto.
+1.0 LIBER PRIMUS
+1.1.1 Si deus est animus nobis, ut carmina dicunt,
+1.1.2 hic tibi praecipue sit pura mente colendus.
+1.2.1 Plus vigila semper nec somno deditus esto;
+1.2.2 nam diuturna quies vitiis alimenta ministrat.
+1.3.1 Virtutem primam esse puta conpescere linguam;
+1.3.2 proximus ille deo est, qui scit ratione tacere.
+1.4.1 Sperne repugnando tibi tu contrarius esse:
+1.4.2 conveniet nulli, qui secum dissidet ipse.1.5.1 Si vitam inspicias hominum, si denique mores,
+1.5.2 cum culpant alios: nemo sine crimine vivit.1.6.1 Quae nocitura tenes, quamvis sint cara, relinque:
+1.6.2 utilitas opibus praeponi tempore debet.1.7.1 Clemens et constans, ut res expostulat, esto:
+1.7.2 temporibus mores sapiens sine crimine mutat.1.8.1 Nil temere uxori de servis crede querenti:
+1.8.2 semper enim mulier, quem coniux diligit, odit.1.9.1 Cumque moneas aliquem nec se velit ille moneri,
+1.9.2 si tibi sit carus, noli desistere coeptis.1.10.1 Contra verbosos noli contendere verbis:
+1.10.2 sermo datur cunctis, animi sapientia paucis.1.11.1 Dilige sic alios, ut sis tibi carus amicus;
+1.11.2 sic bonus esto bonis, ne te mala damna sequantur.1.12.1 Rumores fuge, ne incipias novus auctor haberi,
+1.12.2 nam nulli tacuisse nocet, nocet esse locutum.1.12a.1 Qui prodesse potest, non est fugiendus amicus,
+1.12a.2 si laesit verbo: bonitas sine crimine nil est.1.13.1 Spem tibi promissi certam promittere noli:
+1.13.2 rara fides ideo est, quia multi multa locuntur.1.14.1 Cum te aliquis laudat, iudex tuus esse memento;
+1.14.2 plus aliis de te quam tu tibi credere noli.1.14a.1 Perde semel socium, quem ingratum noveris esse;
+1.14a.2 saepe dato bonis, scieris bene ponere quod des.1.14b.1 Dissimula laesus, si non datur ultio praesens:
+1.14b.2 qui celare potest odium, post laedere quem vult.1.15.1 Officium alterius multis narrare memento,
+1.15.2 atque quaecumque aliis benefeceris ipse, sileto.1.16.1 Multorum cum facta senex et dicta reprendas,
+1.16.2 fac tibi succurrant, iuvenis quae feceris ipse.1.17.1 Ne cures, si quis tacito sermone loquatur:
+1.17.2 conscius ipse sibi de se putat omnia dici.1.18.1 Cum fueris felix, quae sunt adversa, caveto:
+1.18.2 non eodem cursu respondent ultima primis.1.19.1 Cum dubia et fragilis sit nobis vita tributa,
+1.19.2 in mortem alterius spem tu tibi ponere noli.1.20.1 Exiguum munus cum det tibi pauper amicus,
+1.20.2 accipito placide, plene laudare memento.1.21.1 Infantem nudum cum te natura crearit,
+1.21.2 paupertatis onus patienter ferre memento.1.22.1 Ne timeas illam, quae vitae est ultima finis:
+1.22.2 qui mortem metuit, quod vivit, perdit id ipsum.1.23.1 Si tibi pro meritis nemo respondet amicus,
+1.23.2 incusare deos noli, sed te ipse coerce.1.24.1 Ne tibi quid desit, quaesitis utere parce,
+1.24.2 utque quod est serves, semper deesse putato.1.25.1 Quod praestare potes, ne bis promiseris ulli,
+1.25.2 ne sis ventosus, dum vis bonus esse videri.1.26.1 Qui simulat verbis nec corde est fidus amicus,
+1.26.2 tu qui fac simile: sic ars deluditur acte.1.26a.1 Promixus est bonis, si non potes optimus esse.1.27.1 Noli homines blando nimium sermone probare:
+1.27.2 fistula dulce canit, volucrem dum decipit auceps.1.27a.1 Contra hominem astutum noli versutus haberi:
+1.27a.2 non captare malos stultum est, sed velle nocere.1.28.1 Cum tibi sint nati nec opes, tunc artibus illos
+1.28.2 instrue, quo possint inopem defendere vitam.1.29.1 Quod vile est carum, quod carum vile putato:
+1.29.2 sic tu nec cupidus nec avarus nosceris ulli.1.30.1 Quae culpare soles, ea tu ne feceris ipse:
+1.30.2 turpe est doctori, cum culpa redarguat ipsum.1.31.1 Quod iustum est petito vel quod videatur honestum,
+1.31.2 nam stultum est petere quod possit iure negari.1.31a.1 Dat legem natura tibi, non accipit ipsa.1.32.1 Ignotum tibi tu noli praeponere notis:
+1.32.2 cognita iudicio constant, incognita casu.1.33.1 Cum dubia incertis versetur vita periclis,
+1.33.2 pro lucro tibi pone diem, quicumque sequetur.1.34.1 Vincere cum possis, interdum cede sodali,
+1.34.2 obsequio quoniam dulces retinentur amici.1.35.1 Ne dubita cum magna petas, impendere parva:
+1.35.2 his etenim rebus coniungit gratia caros.1.36.1 Litem inferre cave cum quo tibi gratia iuncta est,
+1.36.2 ira odium generat, concordia nutrit amorem.1.37.1 Servorum culpis cum te dolor urget in iram,
+1.37.2 ipse tibi moderare, tuis ut parcere possis.1.38.1 Quem superare potes, interdum vince ferendo,
+1.38.2 maxima enim morum semper patientia virtus.1.39.1 Conserva potius, quae sunt iam parta labore;
+1.39.2 cum labor in damno est, crescit mortalis egestas.1.40.1 Dapsilis interdum notis et carus amicis
+1.40.2 cum fueris dando, semper tibi proximus esto.
+2.0 LIBER SECUNDUS
+2.prae.0 Praefatio Libri Secundi
+2.prae.1 Telluris si forte velis cognoscere cultus,
+2.prae.2 Vergilium legito; quodsi mage nosse laboras
+2.prae.3 herbarum vires, Macer tibi carmina dicit.
+2.prae.4 Si Romana cupis et Punica noscere bella,
+2.prae.5 Lucanum quaeres, qui Martis proelia dixit.
+2.prae.6 Si quid amare libet vel discere amare legendo,
+2.prae.7 Nasonem petito; sin autem cura tibi haec est,
+2.prae.8 ut sapiens vivas, audi quae discere possis,
+2.prae.9 per quae semotum vitiis deducitur aevum:
+2.prae.10 ergo ades, et quae sit sapientia disce legendo.
+2.1.1 Si potes, ignotis etiam prodesse memento:
+2.1.2 utilius regno est, meritis adquirere amicos.
+2.2.1 Mitte arcana dei caelumque inquirere quid sit,
+2.2.2 cum sis mortalis, quae sunt mortalia cura.
+2.3.1 Linque metum leti: nam stultum est, tempore in omni
+2.3.2 dum mortem metuas, amittere gaudia vitae.
+2.4.1 Iratus de re incerta contendere noli,
+2.4.2 impedit ira animum, ne possis cernere verum.
+2.4a.1 Laetandum est vita, nullius morte dolendum;
+2.4a.2 cur etenim doleas, a quo dolor ipse recessit.
+2.5.1 Fac sumptum propere, cum res desiderat ipsa:
+2.5.2 dandum etenim est aliquid, cum tempus postulat aut res.
+2.6.1 Quod nimium est fugito, parvo gaudere memento:
+2.6.2 tuta mage est puppis, modico quae flumine fertur.
+2.7.1 Quod pudeat, socios prudens celare memento,
+2.7.2 ne plures culpent id, quod tibi displicet uni.
+2.7a.1 Quod nocet, interdum, si prodest, ferre memento;
+2.7a.2 Dulcis enim labor est, cum fructu ferre laborem.
+2.8.1 Nolo putes pravos homines peccata lucrari:
+2.8.2 temporibus peccata latent et tempore parent.
+2.9.1 Corporis exigui vires contemnere noli:
+2.9.2 consilo pollet, cui vim natura negavit.
+2.l0.1 Cui scieris non esse parem te, tempore cede:
+2.10.2 victorem a victo superari saepe videmus.
+2.11.1 Adversum notum noli contendere verbis:
+2.11.2 his rebus minimis interdum maxima crescunt.
+2.12.1 Quid deus intendat, noli perquirere sorte:
+2.12.2 quid statuat de te, sine te deliberat ille.
+2.13.1 Invidiam nimio cultu vitare memento;
+2.13.2 quae si non laedit, tamen hanc sufferre molestum.
+2.14.1 Forti animo esto libens, cum sis damnatus inique:
+2.14.2 nemo diu gaudet, qui iudice vincit iniquo.
+2.15.1 Litis praeteritae noli maledicta referre:
+2.15.2 Post inimicitias iram meminisse malorum est.
+2.16.1 Nec te conlaudes nec te culpaveris ipse:
+2.16.2 hoc faciunt stulti, quos gloria vexat inanis.
+2.17.1 Utere quaesitis modice: cum sumptus abundat,
+2.17.2 labitur exiguo, quod partum est tempore longo.
+2.18.1 Insipiens esto, cum tempus postulat ipsum,
+2.18.2 stultitiam simulare loco, prudentia summa est.
+2.19.1 Luxuriam fugito, simul et vitare memento
+2.19.2 crimen avaritiae; nam sunt contraria famae.
+2.20.1 Noli tu quaedam referenti credere semper:
+2.20.2 exigua est tribuenda fides, qui multa locuntur.
+2.21.1 Quae potus peccas, ignoscere tu tibi noli,
+2.21.2 nam crimen nullum vini, sed culpa bibentis.
+2.22.1 Consilium arcanum tacito committe sodali
+2.22.2 corporis auxilium medico committe fideli.
+2.23.1 Successus pravos noli tu ferre moleste:
+2.23.2 indulget fortuna malis, ut laedere possit.
+2.24.1 Prospice qui veniant casus: hos esse ferendos;
+2.24.2 nam levius laedit quidquid praevidimus ante.
+2.25.1 Rebus in adversis animum submittere noli;
+2.25.2 spem retine: spes una hominem nec morte relinquit.
+2.26.1 Rem tibi quam scieris aptam dimittere noli:
+2.26.2 fronte capillata, post haec occasio calva.
+2.27.1 Quod sequitur specta quodque imminet ante, videto:
+22.27.2 illum imitare deum, partem qui spectat utramque.
+2.28.1 Fortius ut valeas, interdum parcior esto:
+2.28.2 pauca voluptati debentur, plura saluti.
+2.29.1 Iudicium populi numquam contempseris unus,
+2.29.2 ne nulli placeas, dum vis contemnere multos.
+2.30.1 Sit tibi praecipue, quod primum est, cura salutis:
+2.30.2 tempore ne culpes, cum sit tibi causa doloris.
+2.31.1 Somnia ne cures, nam mens humana quod optat,
+2.31.2 dum vigilat, sperat, per somnum cernit id ipsum.
+3.0 LIBER TERTIUS
+3.prae.0 Praefatio Metrica Libri Tertii
+3.prae.1 Hoc quicumque voles carmen cognoscere lector
+3.prae.2 cum praecepta ferat, quae sunt gratissima vitae
+3.prae.3 commoda multa feres, sin autem spreveris illud,
+3.prae.4 non me scriptorem, sed te neglexeris ipse.
+3.l.1 Instrue praeceptis animum, nec discere cessa;
+3.l.2 nam sine doctrina vita est quasi mortis imago.
+3.2.1 Cum recte vivas, ne cures verba malorum,
+3.2.2 arbitri non est nostri, quid quisque loquatur.
+3.3.1 Productus testis, salvo tamen ante pudore,
+3.3.2 quantumcumque potes, celato crimen amici.
+3.4.1 Sermones blandos blaesosque cavere memento:
+3.4.2 simplicitas veri fama est, fraus ficta loquendi.
+3.5.1 Segnitiem fugito, quae vitae ignavia fertur;
+3.5.2 nam cum animus languet, consumit inertia corpus.
+3.6.1 Interpone tuis interdum gaudia curis,
+3.6.2 ut possis animo quemvis sufferre laborem.
+3.7.1 Alterius factum ac dictum ne carpseris umquam,
+3.7.2 exemplo simili ne te derideat alter.
+3.8.1 Quod tibi sors dederit tabulis suprema parentis
+3.8.2 augendo serva, ne sis quem fama loquatur.
+3.8a.1 Rumori ne crede novo nec ficta loquendo
+3.8a.2 laetreis: nocuit cunctis audacia semper.
+3.9.1 Cum tibi divitiae superent in fine senectae,
+3.9.2 munificus facito vivas, non parcus, amicus.
+3.10.1 Utile consilium dominus ne despice servi;
+3.10.2 nullius sensum, si prodest, tempseris unquam.
+3.11.1 Rebus et in censu si non est quod fuit ante,
+3.11.2 fac vivas contentus eo, quod tempora praebent.
+3.12.1 Uxorem fuge ne ducas sub nomine dotis,
+3.12.2 nec retinere velis, si coeperit esse molesta.
+3.13.1 Multorum disce exemplo quae facta sequaris,
+3.13.2 quae fugias, vita est nobis aliena magistra.
+3.14.1 Quod potes, id tempta: operis ne pondere pressu
+3.14.2 succumbat labor, et frustra temptata relinquas.
+3.15.1 Quod nosti factum prave, nolito silere,
+3.15.2 ne videare malos imitari velle tacendo.
+3.16.1 ludicis auxilium sub iniquitate rogato,
+3.16.2 ipsae etiam leges cupiunt, ut iure rogentur.
+3.17.1 Quod merito pateris, patienter perfer id ipsum,
+3.17.2 cumque reus tibi sis, ipsum te iudice damna.
+3.18.1 Multa legas facito, perlectis perlege multa,
+3.18.2 nam miranda canunt, sed non credenda poetae.
+3.19.1 Inter convivas fac sis sermone modestus,
+3.19.2 ne dicare loquax, cum vis urbanus haberi.
+3.20.1 Coniugis iratae noli tu verba timere,
+3.20.2 nam lacrimis struit insidias, cum femina plorat.
+3.21.1 Utere quaesitis, sed ne videaris abuti:
+3.21.2 qui sua consumunt, cum deest, aliena sequentur.
+3.21a.1 Spem positam voti noli tu semper habere,
+3.21a.2 non homini semper faciles deus annuit aures.
+3.21b.1 Quod tibi consilium dederit probitatis amicus
+3.21b.2 conserva; nullum est damnum reparata voluntas.
+3.22.1 Fac tibi proponas mortem non esse timendam,
+3.22.2 quae bona si non est, finis tamen illa malorum est.
+3.23.1 Uxoris linguam, si frugi est, ferre memento:
+3.23.2 namque malum est, non velle pati nec posse tacere.
+3.24.1 Aequa diligito caros pietate parentes
+3.24.2 nec matrem offendas, dum vis bonus esse parenti.
+4.0 LIBER QUARTUS
+4.prae.0 Praefatio Metrica Libri Quarti
+4.prae.1 Securam quicumque cupis perducere vitam
+4.prae.2 nec vitiis haerere animo, quae moribus obsint,
+4.prae.3 haec praecepta tibi semper retinenda memento:
+4.prae.4 invenies aliquid + quod te vitare magistro +.
+4.1.1 Despice divitias, si vis animo esse beatus,
+4.1.2 quas qui suscipiunt, mendicant semper avari.
+4.2.1 Si contentus eo fueris, quod postulat usus,
+4.2.2 commoda naturae nullo tibi tempore deerunt.
+4.3.1 Cum sis incautus nec rem ratione gubernes,
+4.3.2 noli fortunam, quae non est, dicere caecam.
+4.4.1 Dilige denarium, sed parce dilige formam.
+4.4.2 quam nemo sanctus nec honestus captat habere.
+4.5.1 Cum fueris locuples, corpus curare memento:
+4.5.2 aeger dives habet nummos, se non habet ipsum.
+4.6.1 Verbera cum tuleris discens aliquando magistri,
+4.6.2 fer patris imperium, cum verbis exit in iram.
+4.7.1 Res age quae prosunt, rursus vitare memento,
+4.7.2 in quis error inest nec spes est certa laboris.
+4.8.1 Quod donare potes gratis, ne vende roganti,
+4.8.2 nam recte fecisse bonis, in parte lucrorum est.
+4.9.1 Quod tibi suspectum est, confestim discute, quid sit
+4.9.2 namque solent, primo quae sunt neglecta, nocere.
+4.10.1 Cum te detineat Veneris damnosa voluptas,
+4.10.2 indulgere gulae noli, quae ventris amica est.
+4.11.1 Cum tibi proponas animalia cuncta timere,
+4.11.2 unum praecipio: hominem plus esse timendum.
+4.12.1 Cum tibi praevalidae fuerint in corpore vires,
+4.12.2 fac sapias: sic tu poteris vir fortis haberi.
+4.13.1 Auxilium a notis petito si forte labores;
+4.13.2 nec quisquam melior medicus quam fidus amicus.
+4.14.1 Cum sis ipse nocens, moritur cur victima pro te?
+4.14.2 stultitia est morte alterius sperare salutem.
+4.15.1 Cum tibi vel socium vel fidum quaeris amicum,
+4.15.2 non tibi fortuna est hominis sed vita petenda.
+4.16.1 Utere quaesitis opibus, fuge nomen avari;
+4.16.2 quid tibi divitias, si semper pauper abundas.
+4.17.1 Si famam servare cupis, dum vivis, honestam,
+4.17.2 fac fugias animo, quae sunt mala gaudia vitae.
+4.18.1 Cum sapias animo, noli ridere senectam;
+4.18.2 nam + quocumque + sene, puerilis sensus in illo est.
+4.19.1 Disce aliquid, nam, cum subito fortuna recessit,
+4.19.2 ars remanet vitamque hominis non deserit umquam.
+4.20.1 Perspicito cuncta tacitus, quid quisque loquatur:
+4.20.2 sermo hominum mores et celat et indicat idem.
+4.21.1 Exerce studium, quamvis perceperis artem:
+4.21.2 ut cura ingenium, sic et manus adiuvat usum.
+4.22.1 Multum venturi ne cures tempora fati:
+4.22.2 non metuit mortem, qui scit contemnere vitam.
+4.23.1 Disce sed a doctis, indoctos ipse doceto:
+4.23.2 propaganda etenim est rerum doctrina bonarum.
+4.24.1 Hoc bibe, quo possis, si vis tu, vivere sanus:
+4.24.2 morbi causa mali est homini quaecumque voluptas.
+4.25.1 Laudaris quodcumque palam, quodcumque probaris,
+4.25.2 hoc vide ne rursus levitatis crimine damnes.
+4.25a.1 Sub tortore manet, quem conscientia domat.
+4.26.1 Tranquillis rebus semper adversa timeto:
+4.26.1 rursus in adversis melius sperare memento.
+4.27.1 Discere ne cessa, cura sapientia crescat:
+4.27.2 rara datur longo prudentia temporis usu.
+4.28.1 Parce laudato, nam quem tu saepe laudaris,
+4.28.2 una dies, qualis fuerit, ostendet, amicus.
+4.29.1 Ne pudeat quae nescieris te velle doceri:
+4.29.2 scire aliquid laus est; culpa est nil discere velle.
+4.30.1 Cum Venere et Baccho vis est et iuncta voluptas:
+4.30.2 quod lautum est, animo complectere, sed fuge lites.
+4.31.1 Demissos animo et tacitos vitare memento:
+4.31.2 quod flumen placidum est, forsan latet altius unda.
+4.32.1 Cum tua fortuna rerum tibi displicet ipsi,
+4.32.2 alterius specta, cui sit discrimine peior.
+4.33.1 Quod potes id tempta: nam litus carpere remis
+4.33.2 tutius est multo quam velum tendere in altum.
+4.34.1 Contra hominem iustum prave contendere noli:
+4.34.2 semper enim deus iniustas ulciscitur iras.
+4.35.1 Ereptis opibus noli maerere dolendo
+4.35.2 sed gaude potius, si te contingat habere.
+4.36.1 Est iactura gravis quae sunt amittere damnis,
+4.36.2 sed tibi cum valeas semper superesse putato.
+4.36a.1 —
+4.36a.2 Sunt quaedam, quae ferre decet patienter, amici.
+4.37.1 Tempora longa tibi noli promittere vitae:
+4.37.2 quocumque ingrederis, sequitur mors corporis umbra.
+4.38.1 Ture deum placa, vitulum sine crescat aratro:
+4.38.2 ne credas gaudere deum, cum caede litatur.
+4.39.1 Cede loco laesus, fortunae cede potenti:
+4.39.2 laedere qui potuit, poterit prodesse aliquando.
+4.39a.1 — et in ipso tempore donis.
+4.40.1 Cum quid peccaris, castiga te ipse subinde:
+4.40.2 vulnera dum sanas, dolor est medicina doloris.
+4.41.1 Damnaris numquam post longum tempus amicum:
+4.41.2 mutavit mores, sed pignora prima memento.
+4.42.1 Gratior officiis, quo sis mage carior, esto,
+4.42.2 ne nomen subeas, quod dicunt, officiperdi.
+4.43.1 Suspectus caveris, ne sis miser omnibus horis,
+4.43.2 nam timidis et suspectis aptissima mors est.
+4.44.1 Cum servos fueris proprios mercatus in usus
+4.44.2 et famulos dicas, homines tamen esse memento.
+4.45.1 Quam primum rapienda tibi est occasio prima,
+4.45.2 ne rursus quaeras, quae iam neglexeris ante.
+4.46.1 Morte repentina noli gaudere malorum:
+4.46.2 felices obeunt quorum sine crimine vita.
+4.47.1 Cum coniux tibi sit, ne res et fama laboret,
+4.47.2 vitandum ducas inimicum nomen amici.
+4.48.1 Cum tibi contigerit studio cognoscere multa,
+4.48.2 fac discas multa, vita nescire doceri.
+4.49.1 Miraris verbis nudis me scribere versus;
+4.49.2 hoc brevitas fecit, sensus coniungere binos.
